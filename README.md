@@ -1,9 +1,9 @@
 # Olá, eu sou a Amanda 👋
 
-Sou **dev em formação**, bacharel em **Artes pela Universidade Federal Fluminense (UFF)** e estudante de **Análise e Desenvolvimento de Sistemas (ADS)**.  
+Sou **desenvolvedora em formação**, bacharel em **Artes pela Universidade Federal Fluminense (UFF)** e estudante de **Análise e Desenvolvimento de Sistemas (ADS)**.  
 Atualmente estou em transição para a área de tecnologia, com interesse em **desenvolvimento de software e produtos digitais centrados no usuário**.
 
-Minha trajetória passa pelas artes e pelo turismo, o que fortaleceu minha comunicação, pensamento crítico e atenção à experiência das pessoas — habilidades que hoje aplico no estudo e desenvolvimento de **aplicações digitais**.
+Minha trajetória passa pelas artes e pelo turismo, o que fortaleceu minha comunicação, pensamento crítico e atenção à experiência das pessoas, habilidades que hoje aplico no estudo e desenvolvimento de **aplicações digitais**.
 
 ---
 
